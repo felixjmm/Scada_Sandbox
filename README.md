@@ -1,7 +1,7 @@
 # Repositorio de Prueba
 WRT - M.Rodri
-Values: BLOCK || Crypto
+	Values: BLOCK || Crypto
 
 
-SUS - F.Mosq
-Values: FREE || BLOCK || Crypto
+SUSC - F.Mosq
+	Values: FREE || BLOCK || Crypto
