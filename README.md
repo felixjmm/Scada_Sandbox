@@ -5,3 +5,7 @@ WRT - M.Rodri
 
 SUSC - F.Mosq
 	Values: FREE || BLOCK || Crypto
+
+
+Logger - F.Mosq
+	Values: BLOCK || Crypto
