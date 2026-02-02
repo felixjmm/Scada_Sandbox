@@ -8,4 +8,4 @@ SUSC - F.Mosq
 
 
 Logger - F.Mosq
-	Values: BLOCK || Crypto
+	Values: SKIP || Crypto
