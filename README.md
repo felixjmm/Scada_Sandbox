@@ -1,11 +1,11 @@
 # Repositorio de Llaves
-WRT - M.Rodri
-	Values: BLOCK || Crypto
+WRT - FMOSQ - Sirve PROD&TEST
+	Values: BLOCK || Data
 
 
-SUSC - F.Mosq
-	Values: FREE || BLOCK || Crypto
+SUSC - FMOSQ -
+	Values: FREE || BLOCK || Data
 
 
-Logger - F.Mosq
-	Values: SKIP || Crypto
+Logger - FMOSQ
+	Values: SKIP || Data
