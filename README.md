@@ -1,11 +1,9 @@
 # Repositorio de Llaves
-WRT - FMOSQ - Sirve PROD&TEST
-	Values: BLOCK || Data
+WRT - FMOSQ - Sirve TEST
+	Values: Data
 
 
-SUSC - FMOSQ -
-	Values: FREE || BLOCK || Data
+SUSC - NO SE USA - VIA SERVER A
 
 
-Logger - FMOSQ
-	Values: SKIP || Data
+Logger - NO SE USA - VIA SERVER A
